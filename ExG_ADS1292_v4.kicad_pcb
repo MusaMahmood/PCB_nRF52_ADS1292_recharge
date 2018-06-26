@@ -3,7 +3,7 @@
   (general
     (links 179)
     (no_connects 0)
-    (area 265.839999 125.449999 297.730001 145.140001)
+    (area 264.8176 122.157123 320.907143 147.200001)
     (thickness 1.6)
     (drawings 44)
     (tracks 550)
@@ -32,7 +32,7 @@
   )
 
   (setup
-    (last_trace_width 0.152)
+    (last_trace_width 0.4572)
     (user_trace_width 0.152)
     (user_trace_width 0.229)
     (trace_clearance 0.1524)
@@ -85,7 +85,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory Gerber_nRF52_ADS1292_r4/))
+      (outputdirectory output_gerbers/))
   )
 
   (net 0 "")
